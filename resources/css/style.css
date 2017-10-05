@@ -4,7 +4,7 @@ html {
 }
 
 header {
-	background-image: url("../the-flatiron-building.png");
+	background-image: url("../flatiron.png");
 	color: white;
 	font-weight: bold;
 }
@@ -29,7 +29,7 @@ h3 {
 }
 
 #header {
-	background-image: url("../the-flatiron-building.png");
+	background-image: url("../flatiron.png");
 	color: white;
 }
 
